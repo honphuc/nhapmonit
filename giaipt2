@@ -1,0 +1,3 @@
+#giai phuong trinh bac 2
+print("Nhap vao he so a:")
+a=input()
